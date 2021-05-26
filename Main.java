@@ -46,7 +46,7 @@ public class Main {
 		
 			session.getTransaction().commit();
 			
-			//System.out.println("Deleted");
+			
 			
 		} catch (Exception e) {
 			// TODO: handle exception
